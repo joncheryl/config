@@ -14,7 +14,7 @@
 (add-to-list 'default-frame-alist '(fullscreen . fullheight))
 
 ;;; add directory to search for themes
-(add-to-list 'custom-theme-load-path "~/.emacs.d/themes/")
+(add-to-list 'custom-theme-load-path "~/config/.emacs.d/themes/")
 
 ;;; load zenburn theme
 (custom-set-variables
